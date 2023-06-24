@@ -24,7 +24,26 @@ To further enhance the model’s performance, an additional large dataset
 specific to optic nerve sheath images was incorporated, again employing transfer
 learning. This final step resulted in the best overall results achieved throughout
 the project. The primary challenges encountered during the project were primarily attributed to the limited availability of data, which adversely affected the
-performance of the models
+performance of the models.
+
+## Dataset
+The dataset for this project consisted of several types of images, with the
+main ones being the original ultrasound images of the optic nerve (1,2,3). There
+were a total of 15 of these images, and each image had a corresponding clustered
+image where segmentation was done manually (4,5,6). These clustered images
+served as our labels for training the deep learning model. 
+
+![Capture d’écran 2023-06-24 225823](https://github.com/Abdennacer-Badaoui/Nerf_optic_sheath_diameter_measurement/assets/106801897/a6c528c6-f95c-4f7e-ba7e-472e8ad35c07)
+
+
+Additionally, for each
+original image, there were 5 corresponding images that represent the different
+masks that we needed to predict (7,8,9).
+
+
+![Capture d’écran 2023-06-24 225905](https://github.com/Abdennacer-Badaoui/Nerf_optic_sheath_diameter_measurement/assets/106801897/ddbbd770-3be5-4c1d-bd05-3c2377367c4b)
+
+
 
 ## Questions ?
 Any Questions? Don't hesitate to reach us: abdennacer.badaoui@student-cs.fr , hatim.mrabet@student-cs.fr .
