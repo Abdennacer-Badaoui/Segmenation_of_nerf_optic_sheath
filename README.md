@@ -1,6 +1,6 @@
 # Nerf_optic_sheath_diameter_measurement
 
-![1](https://github.com/Abdennacer-Badaoui/Nerf_optic_sheath_diameter_measurement/assets/106801897/6d6a2041-7e01-4656-87db-841165777850)
+![1](https://github.com/Abdennacer-Badaoui/Nerf_optic_sheath_diameter_measurement/assets/106801897/149cfd7c-10e6-4ce7-8b9c-e7a029d12e34)
 
 
 ## Abstract : 
